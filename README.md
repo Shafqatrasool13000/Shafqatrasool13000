@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Shafqat Rasool
  A passionate full-stack developer
-🔭 I’m currently working on Houseup(Real-Estate)
+🔭 I’m currently working on Houseup Web App(Real-Estate)
 
 🌱 I’m currently learning postgresql to upgrade skills
 
