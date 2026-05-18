@@ -31,7 +31,7 @@ Most of my recent development work focuses on:
 ---
 
 ### 💻 Tech Stack
-- **Frontend:** React.js, Vue.js, TypeScript, Tailwind CSS  
+- **Frontend:** React.js, TypeScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs  
 - **AI & Automation:** LangChain, GPT-4, embeddings, Gmail API integration
 - **Backend Tools:** Redis, Socket.io, JWT Auth, REST API design 
