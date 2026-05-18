@@ -42,8 +42,4 @@ Most of my recent development work focuses on:
 
 ### 📫 Contact Me
 - **Email:** shafqatrasool13000@gmail.com  
-- **Portfolio:** https://shafqat-rasool.vercel.app/  
-
----
-
-⭐️ *Open to remote opportunities, SaaS products, and long-term collaborations.*
+- **Portfolio:** https://shafqat-rasool.vercel.app/
